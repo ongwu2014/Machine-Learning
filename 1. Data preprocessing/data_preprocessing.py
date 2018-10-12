@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct 11 18:28:25 2017
+Created on Thu Oct 11 18:28:25 2018
 
 @author: ogbonnayacngwu
 
-DESCRIPTION: Data set contains information of customers with the last column indicating that the customer 
-                bought a product from the company. The goal is to make the system learn the correlation of the data 
+DESCRIPTION: Data set contains information of customers with the last column indicating that the customer
+                bought a product from the company. The goal is to make the system learn the correlation of the data
                 and is able to indicate if a future customer is will buy a product from the company or not. Here,
                 the codes preprocess the data in preparation for machine learning models
 """
 
-#Data Preprocessing 
+#Data Preprocessing
 
 #Importing the libraries
 import numpy as np
